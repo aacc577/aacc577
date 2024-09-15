@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hi, I'm Xz 👋 <br/> </h2> 
 
-<p align="center"><img width=65px height=65px  src="x.png" alt=""></p>
+<p align="center"><img width=65px height=65px  src="X.png" alt=""></p>
 
 <p align="center"> <samp>嗨，我叫 Xz。我是一名初中生。我也是一名一般的程序员。在我的存储库中，您可以找到使用的主页模板 </samp>
 
