@@ -49,13 +49,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aacc577)](https://github.com/aacc577/github-readme-stats)  ![aacc577's GitHub stats](https://github-readme-stats.vercel.app/api?username=aacc577&show_icons=true&theme=tokyonight)
 
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
+  <!-- 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/aacc577/aacc577/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/aacc577/aacc577/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/aacc577/aacc577/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
-
+Snake Code Contribution Map 贪吃蛇代码贡献图 -->
 
   <!-- profile logo 个人资料徽标 -->
   <div>
