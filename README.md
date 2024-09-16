@@ -49,7 +49,7 @@
 
 ![aacc577's GitHub stats](https://github-readme-stats.vercel.app/api?username=aacc577&show_icons=true&theme=tokyonight)
 
-![Visitor Count](https://profile-counter.glitch.me/aacc577/count.svg)
+<samp>目前个人主页访问量</samp> ![Visitor Count](https://profile-counter.glitch.me/aacc577/count.svg)
 
 </tbody>
 </table>
