@@ -1,10 +1,15 @@
 ## Hi there 👋
 
-<h2 align="center"> Hi, I'm Xz 👋 <br/> </h2> 
+<h2 align="center"> Hi, I'm aacc577 👋 <br/> </h2> 
 
 <p align="center"><img width=65px height=65px  src="X.png" alt=""></p>
 
-<p align="center"> <samp>嗨，我叫 aacc577。我是一名初中生。我也是一名一般的程序员。在我的存储库中，您可以找到使用的主页模板 </samp>
+  <!-- dynamic typing effect 动态打字效果 -->
+  <div>
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=嗨，我叫 aacc577。;这是我的个人主页感谢参观&center=true&size=27" />
+    </a>
+  </div>
 
 ## 目前会的代码
 <samp>目前还在学习以后会更多</samp>
