@@ -4,7 +4,7 @@
 
 <p align="center"><img width=65px height=65px  src="X.png" alt=""></p>
 
-<p align="center"> <samp>嗨，我叫 Xz。我是一名初中生。我也是一名一般的程序员。在我的存储库中，您可以找到使用的主页模板 </samp>
+<p align="center"> <samp>嗨，我叫 aacc577。我是一名初中生。我也是一名一般的程序员。在我的存储库中，您可以找到使用的主页模板 </samp>
 
 ## 目前会的代码
 <samp>目前还在学习以后会更多</samp>
@@ -44,6 +44,12 @@
 <img height=65px src="https://cdn.icon-icons.com/icons2/159/PNG/256/java_22523.png" alt=""> 
 </td>
 </tr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aacc577)](https://github.com/aacc577/github-readme-stats)
+
+![aacc577's GitHub stats](https://github-readme-stats.vercel.app/api?username=aacc577&show_icons=true&theme=tokyonight)
+
+![Visitor Count](https://profile-counter.glitch.me/aacc577/count.svg)
 
 </tbody>
 </table>
